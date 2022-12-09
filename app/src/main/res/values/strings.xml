@@ -49,12 +49,7 @@
     <string name="search">Search</string>
     <string name="location_permission_denied">Location permission denied. To use this feature, please grant location access on the Settings screen.</string>
     <string name="open_settings_prompt">Open Settings</string>
-
-    <!--
-    <string name="source_code_url">https://github.com/ramzan/Atmostate</string>
-    -->
-    <string name="source_code_url">https://www.google.com/</string>
-
+    <string name="source_code_url">https://github.com/levadavs/weatherinfo/</string>
     <string name="location_removed_message">Location removed</string>
     <string name="your_location">Your location</string>
     <string name="add_location">+ Add location</string>
