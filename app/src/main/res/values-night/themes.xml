@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeatherInfo" parent="Theme.MaterialComponents">
+        <item name="android:colorPrimary">@color/indigo_900</item>
+        <item name="android:statusBarColor">@color/indigo_900</item>
+        <item name="android:background">@color/indigo_900</item>
+    </style>
+
+</resources>
